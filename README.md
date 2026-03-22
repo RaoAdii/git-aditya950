@@ -65,8 +65,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| 🌍 [EcoLearn](https://github.com/git-aditya950/EcoLearn) | Environmental education platform with quizzes, gamification, leaderboards & real-time climate data | Python, SQLite, Streamlit, Pandas |
 | 🚂 [Train Ticket Booking](https://github.com/git-aditya950/Train-Ticket-Booking) | A train ticket booking system with a clean UI | HTML, CSS |
-| 🌤️ [Weather App](https://github.com/git-aditya950/Weather-App) | Real-time weather lookup using a weather API | JavaScript |
 | 📐 [DAA Project](https://github.com/git-aditya950/DAA-Project) | Algorithm visualizer / Design & Analysis project | JavaScript |
 | 🐍 [Python Mini Projects](https://github.com/git-aditya950/Python-Mini-Projects) | Collection of beginner-to-intermediate Python projects | Python |
 
