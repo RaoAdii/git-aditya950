@@ -73,6 +73,14 @@
 
 ---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoAdii&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -93,7 +101,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:ceaser.adi00@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#d5b6b0b4a6b0a7fbb4b1bce5e595b2b8b4bcb9fbb6bab8">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
@@ -117,5 +125,4 @@
 </p>
 
 <p align="center">
-  <i>"Writing Code & Building Logic — one commit at a time."</i>
-</p>
+  <i>"Writing Code & Buildi
