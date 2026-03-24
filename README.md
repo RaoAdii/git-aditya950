@@ -101,11 +101,15 @@
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://portfolio-virid-three-cd5avec3cm.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/aditya950" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="/cdn-cgi/l/email-protection#d5b6b0b4a6b0a7fbb4b1bce5e595b2b8b4bcb9fbb6bab8">
+  <a href="mailto:ceaser.adi00@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
